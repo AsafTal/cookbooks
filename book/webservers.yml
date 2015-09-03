@@ -2,6 +2,7 @@
 
 # file: webservers.yml
 - hosts: web
+  gather_facts: no
 
   vars:
     apache_vhosts:
