@@ -5,7 +5,7 @@
 
   vars:
     apache_vhosts:
-      - {servername: "babelfish.local", documentroot: "/web/babelfish/public/"}
+      - {servername: "babelfish.loc", documentroot: "/web/babelfish/public/"}
     mysql_dbs:
       - name: babelfish
 
